@@ -456,7 +456,7 @@
         "layer0.texture": "Theme - Soda/Soda Dark/sidebar-bg.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [1, 1, 2, 1],
-        "content_margin": [0, 0, 1, 0],
+        "content_margin": [0, 0, 1, 0]
     },
     // Sidebar tree
     {
@@ -499,8 +499,7 @@
         "class": "sidebar_label",
         "color": [125, 125, 125],
         "shadow_color": [0, 0, 0],
-        "shadow_offset": [0, -1],
-        "font.size": 14
+        "shadow_offset": [0, -1]
     },
     // Sidebar folder entry
     {
@@ -525,7 +524,8 @@
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "color": [210, 210, 210],
         "shadow_color": [0, 0, 0],
-        "shadow_offset": [0, 1]
+        "shadow_offset": [0, 1],
+        "font.size": 15.0
     },
 
 //

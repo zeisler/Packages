@@ -1,8 +1,12 @@
 {
 	"installed_packages":
 	[
+		"DashDoc",
+		"Emmet",
 		"Package Control",
+		"SideBarEnhancements",
 		"Theme - Cobalt2",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TrailingSpaces"
 	]
 }
