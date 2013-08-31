@@ -499,7 +499,8 @@
         "class": "sidebar_label",
         "color": [125, 125, 125],
         "shadow_color": [0, 0, 0],
-        "shadow_offset": [0, -1]
+        "shadow_offset": [0, -1],
+        "font.size": 15.0
     },
     // Sidebar folder entry
     {
@@ -524,8 +525,7 @@
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "color": [210, 210, 210],
         "shadow_color": [0, 0, 0],
-        "shadow_offset": [0, 1],
-        "font.size": 15.0
+        "shadow_offset": [0, 1]
     },
 
 //
