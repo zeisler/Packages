@@ -1,0 +1,15 @@
+{
+	"theme": "Soda Dark.sublime-theme",
+	"font_face": "Inconsolata",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true,
+	"use_tab_stops": true
+}
